@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:text="News is information about current events. Journalists provide news through many different media, based on word of mouth, printing, postal systems, broadcasting, electronic communication, and also on their own testimony, as witnesses of relevant events.
+Common topics for news reports include war, government, politics, education, health, the environment, economy, business, and entertainment, as well as athletic events, quirky or unusual events. Government proclamations, concerning royal ceremonies, laws, taxes, public health, criminals, have been dubbed news since ancient times." />
